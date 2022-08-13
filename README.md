@@ -6,19 +6,19 @@ Added functionality is needed to the website, so that other administrative perso
 ## Functions Needed
 ### Contributer functions
 
-- [] Add blog posts
+- [ ] Add blog posts
   * Posts should include a title, a date and the body. Functionality is needed to be able to add pictures to the body.
   * Posts should be editable at a later date
   * Posts should be able to be deleted
-- [] Add photo's to an album
-- [] Add video links to the video section
-- [] Be able to log in
-- [] Be able to change the user password
+- [ ] Add photo's to an album
+- [ ] Add video links to the video section
+- [ ] Be able to log in
+- [ ] Be able to change the user password
 
 ### Administrative functions
 
-- [] All of the above
-- [] Create Custom pages with html or markdown
+- [ ] All of the above
+- [ ] Create Custom pages with html or markdown
 
 ## Tech stack
 
