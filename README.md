@@ -30,3 +30,27 @@ Image storage: AWS S3 Bucket
 - Login for other members
 - Include a sign-up form to join the club
 - Create a planner for the team captains that notifies members if they're planned to play.
+
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
